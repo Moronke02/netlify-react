@@ -1,0 +1,41 @@
+
+.jumbotron {
+    margin-top: 20px;
+    background-image: url(office.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    
+ h4, h5 {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+.person-wrapper {
+    margin-bottom: 2em;
+}
+.profile-pic {
+    width: 50%;
+    height: 300px;
+
+}
+body{
+    overflow-x:hidden;
+}
+footer {
+    margin-top: 4em;
+    text-align: center;
+}
+.link {
+   
+    text-decoration: none;
+}
+
+
+.signin {
+    text-decoration: none;
+    color: white;
+}
